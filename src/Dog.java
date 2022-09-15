@@ -1,4 +1,4 @@
-public class Dog implements Animal {
+public class Dog implements IAnimal {
     private static final String WOOF = "Woof!";
     private String name;
 

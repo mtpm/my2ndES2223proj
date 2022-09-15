@@ -1,4 +1,4 @@
-public class Cat implements Animal {
+public class Cat implements IAnimal {
     private static final String MEOW = "Meow!";
     private String name;
     
